@@ -1,0 +1,101 @@
+{
+  "navigation": {
+    "home": "Inicio",
+    "about": "Acerca de",
+    "projects": "Proyectos",
+    "blog": "Blog",
+    "contact": "Contacto"
+  },
+  "home": {
+    "title": "Sthefano C.",
+    "subtitle": "Desarrollador Full-Stack y Diseñador",
+    "description": "Construyo aplicaciones web modernas con enfoque en la experiencia del usuario y el rendimiento.",
+    "cta": "Ver Mi Trabajo",
+    "featuredProjects": "Proyectos Destacados",
+    "latestPosts": "Últimas Publicaciones",
+    "viewAll": "Ver Todo"
+  },
+  "about": {
+    "title": "Acerca de Mí",
+    "bio": "Soy un desarrollador full-stack apasionado con más de 5 años de experiencia construyendo aplicaciones web modernas. Me encanta crear interfaces amigables para el usuario y resolver problemas complejos con código limpio y eficiente.",
+    "skills": {
+      "title": "Habilidades",
+      "languages": "Lenguajes",
+      "frameworks": "Frameworks y Librerías",
+      "tools": "Herramientas y Plataformas"
+    },
+    "timeline": {
+      "title": "Experiencia",
+      "current": "Presente"
+    },
+    "downloadCV": "Descargar CV"
+  },
+  "projects": {
+    "title": "Proyectos",
+    "description": "Una colección de proyectos en los que he trabajado",
+    "filterBy": "Filtrar por tecnología",
+    "all": "Todos",
+    "role": "Rol",
+    "company": "Empresa",
+    "stack": "Stack Tecnológico",
+    "links": "Enlaces",
+    "impact": "Impacto",
+    "metrics": "Métricas Clave",
+    "related": "Proyectos Relacionados"
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Pensamientos sobre desarrollo web, diseño y tecnología",
+    "search": "Buscar publicaciones...",
+    "filterBy": "Filtrar por etiqueta",
+    "all": "Todas",
+    "readingTime": "min de lectura",
+    "publishedOn": "Publicado el",
+    "updatedOn": "Actualizado el",
+    "tags": "Etiquetas",
+    "related": "Publicaciones Relacionadas",
+    "previous": "Anterior",
+    "next": "Siguiente"
+  },
+  "contact": {
+    "title": "Ponte en Contacto",
+    "description": "¿Tienes un proyecto en mente? Hablemos sobre cómo podemos trabajar juntos.",
+    "form": {
+      "name": "Nombre",
+      "email": "Correo",
+      "message": "Mensaje",
+      "submit": "Enviar Mensaje",
+      "sending": "Enviando...",
+      "success": "¡Gracias! Tu mensaje ha sido enviado.",
+      "error": "Lo siento, hubo un error al enviar tu mensaje. Por favor, inténtalo de nuevo."
+    },
+    "info": {
+      "email": "Correo",
+      "location": "Ubicación",
+      "availability": "Disponible para trabajar"
+    }
+  },
+  "footer": {
+    "description": "Construyendo la web, un píxel a la vez.",
+    "links": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter",
+      "email": "Correo"
+    },
+    "copyright": "© 2024 Sthefano C. Todos los derechos reservados."
+  },
+  "common": {
+    "loading": "Cargando...",
+    "error": "Algo salió mal",
+    "notFound": "Página no encontrada",
+    "backToHome": "Volver al inicio",
+    "readMore": "Leer más",
+    "learnMore": "Saber más",
+    "close": "Cerrar",
+    "open": "Abrir",
+    "copy": "Copiar",
+    "copied": "¡Copiado!",
+    "share": "Compartir"
+  }
+}

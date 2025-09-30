@@ -1,0 +1,101 @@
+{
+  "navigation": {
+    "home": "Início",
+    "about": "Sobre",
+    "projects": "Projetos",
+    "blog": "Blog",
+    "contact": "Contato"
+  },
+  "home": {
+    "title": "Sthefano C.",
+    "subtitle": "Desenvolvedor Full-Stack e Designer",
+    "description": "Construo aplicações web modernas com foco na experiência do usuário e performance.",
+    "cta": "Ver Meu Trabalho",
+    "featuredProjects": "Projetos em Destaque",
+    "latestPosts": "Últimas Postagens",
+    "viewAll": "Ver Todos"
+  },
+  "about": {
+    "title": "Sobre Mim",
+    "bio": "Sou um desenvolvedor full-stack apaixonado com mais de 5 anos de experiência construindo aplicações web modernas. Adoro criar interfaces amigáveis ao usuário e resolver problemas complexos com código limpo e eficiente.",
+    "skills": {
+      "title": "Habilidades",
+      "languages": "Linguagens",
+      "frameworks": "Frameworks e Bibliotecas",
+      "tools": "Ferramentas e Plataformas"
+    },
+    "timeline": {
+      "title": "Experiência",
+      "current": "Presente"
+    },
+    "downloadCV": "Baixar CV"
+  },
+  "projects": {
+    "title": "Projetos",
+    "description": "Uma coleção de projetos em que trabalhei",
+    "filterBy": "Filtrar por tecnologia",
+    "all": "Todos",
+    "role": "Função",
+    "company": "Empresa",
+    "stack": "Stack Tecnológico",
+    "links": "Links",
+    "impact": "Impacto",
+    "metrics": "Métricas Principais",
+    "related": "Projetos Relacionados"
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Pensamentos sobre desenvolvimento web, design e tecnologia",
+    "search": "Buscar postagens...",
+    "filterBy": "Filtrar por tag",
+    "all": "Todas",
+    "readingTime": "min de leitura",
+    "publishedOn": "Publicado em",
+    "updatedOn": "Atualizado em",
+    "tags": "Tags",
+    "related": "Postagens Relacionadas",
+    "previous": "Anterior",
+    "next": "Próximo"
+  },
+  "contact": {
+    "title": "Entre em Contato",
+    "description": "Tem um projeto em mente? Vamos conversar sobre como podemos trabalhar juntos.",
+    "form": {
+      "name": "Nome",
+      "email": "Email",
+      "message": "Mensagem",
+      "submit": "Enviar Mensagem",
+      "sending": "Enviando...",
+      "success": "Obrigado! Sua mensagem foi enviada.",
+      "error": "Desculpe, houve um erro ao enviar sua mensagem. Tente novamente."
+    },
+    "info": {
+      "email": "Email",
+      "location": "Localização",
+      "availability": "Disponível para trabalho"
+    }
+  },
+  "footer": {
+    "description": "Construindo a web, um pixel por vez.",
+    "links": {
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "twitter": "Twitter",
+      "email": "Email"
+    },
+    "copyright": "© 2024 Sthefano C. Todos os direitos reservados."
+  },
+  "common": {
+    "loading": "Carregando...",
+    "error": "Algo deu errado",
+    "notFound": "Página não encontrada",
+    "backToHome": "Voltar ao início",
+    "readMore": "Ler mais",
+    "learnMore": "Saber mais",
+    "close": "Fechar",
+    "open": "Abrir",
+    "copy": "Copiar",
+    "copied": "Copiado!",
+    "share": "Compartilhar"
+  }
+}
