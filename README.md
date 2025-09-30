@@ -359,8 +359,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Website**: [sthefanoc.com](https://sthefanoc.com)
 - **Email**: hello@sthefanoc.com
 - **GitHub**: [@sthefanoc](https://github.com/sthefanoc)
-- **LinkedIn**: [Stefano C.](https://linkedin.com/in/sthefanoc)
+- **LinkedIn**: [Sthefano C.](https://linkedin.com/in/sthefanoc)
 
 ---
 
-Built with ❤️ by [Stefano C.](https://sthefanoc.com)
+Built with ❤️ by [Sthefano C.](https://sthefanoc.com)
